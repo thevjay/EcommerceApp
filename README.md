@@ -78,3 +78,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 Feel free to customize this README file to fit your project's specific needs. Remember to replace the placeholders (e.g., your-username, your-repo-name, etc.) with your actual information.
 
 Do you want me to elaborate on any part of this README file or provide further assistance with deploying your project to GitHub?
+
+![Ecom1 2024-09-03 105940](https://github.com/user-attachments/assets/f7dd50fa-b2b1-4cc9-9475-759f8439aaf8)
